@@ -1,0 +1,38 @@
+# PromptArchitekt Showroom Repo
+
+# Intern - nie auf GitHub
+_private/
+SETUP.md
+
+# Kein Produktivcode in diesem Repo
+src/
+app/
+components/
+lib/
+tests/
+node_modules/
+.next/
+.vercel/
+.env
+.env.*
+package-lock.json
+package.json
+tsconfig.json
+
+# Archive / Rohdaten
+*.zip
+*.7z
+*.rar
+*.opus
+*.m4a
+*.mp3
+*.wav
+*.ogg
+*.webm
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
