@@ -118,6 +118,20 @@ Entwicklungsrepo.
 - Changelog und Feature-Liste als wiederverwendbare Produktdokumentation
 - klare Abgrenzung: Transkriptions-QA statt Inhaltsinterpretation
 
+## Screenshots
+
+### Mobile Startansicht
+
+![Mobile Startansicht](assets/speech-2-text-mobile-start.png)
+
+### Mobile Audioauswahl
+
+![Mobile Audioauswahl](assets/speech-2-text-mobile-audio-selected.png)
+
+### Web-Ansicht
+
+![Web-Ansicht](assets/speech-2-text-desktop-audio-selected.png)
+
 ## Entwicklungslinie
 
 ```text
