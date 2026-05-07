@@ -4,7 +4,7 @@
 > Woerterbuch, Google-Drive-Ablage und einem Workflow, der vom Handy bis zum
 > Rechner weitergeht.
 
-`Next.js` `TypeScript` `OpenAI API` `Clerk` `Google Drive` `Vercel` &nbsp;·&nbsp; Status: MVP
+`Next.js` `TypeScript` `OpenAI API` `Clerk` `Google Drive` `Vercel` &nbsp;·&nbsp; Status: Live App
 
 **Live:** https://speech.promptarchitekt.de  
 **Code:** privat - dieses Repository zeigt Produkt, Arbeitsweise und Ergebnis, nicht den Quellcode.

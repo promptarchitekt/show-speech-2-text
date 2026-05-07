@@ -56,9 +56,9 @@
 - Hilfe direkt erreichbar
 - App bleibt auf Handy und Desktop verwendbar
 
-## Nicht-Ziele
+## Bewusste Produktgrenzen
 
 - keine automatische Inhaltsinterpretation
 - keine vollautomatische Korrektur ohne Nutzerentscheidung
-- keine freie Drive-Ordnerauswahl im MVP
+- keine freie Drive-Ordnerauswahl im aktuellen Produktstand
 - kein Audioarchiv
